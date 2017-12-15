@@ -23,8 +23,7 @@ words: a,the
 ---
 spring:
   profiles: adjective
-wordConfig:
-  words: lllllllllllllllllllllllllllll
+words: lllllllllllllllllllllllllllll
 
 ---
 spring:
